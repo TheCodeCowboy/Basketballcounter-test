@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basketball counter</string>
+    <string name="Reset">RESET</string>
+    <string name="onePoint">ADD 1</string>
+    <string name="twoPoints">ADD 2</string>
+    <string name="threePoints">ADD 3</string>
+</resources>
